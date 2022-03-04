@@ -1,0 +1,5 @@
+C:\Users\NITISH KUMAR\Desktop\EmployeePayrollProblemMultiThreading\EmployeePayrollSystemThreads\obj\Debug\net6.0\EmployeePayrollSystemThreads.csproj.AssemblyReference.cache
+C:\Users\NITISH KUMAR\Desktop\EmployeePayrollProblemMultiThreading\EmployeePayrollSystemThreads\obj\Debug\net6.0\EmployeePayrollSystemThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITISH KUMAR\Desktop\EmployeePayrollProblemMultiThreading\EmployeePayrollSystemThreads\obj\Debug\net6.0\EmployeePayrollSystemThreads.AssemblyInfoInputs.cache
+C:\Users\NITISH KUMAR\Desktop\EmployeePayrollProblemMultiThreading\EmployeePayrollSystemThreads\obj\Debug\net6.0\EmployeePayrollSystemThreads.AssemblyInfo.cs
+C:\Users\NITISH KUMAR\Desktop\EmployeePayrollProblemMultiThreading\EmployeePayrollSystemThreads\obj\Debug\net6.0\EmployeePayrollSystemThreads.csproj.CoreCompileInputs.cache
